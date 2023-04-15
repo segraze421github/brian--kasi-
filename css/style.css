@@ -1,0 +1,23 @@
+#navbar{
+    padding-left: 10px;
+    padding-top: 30px;
+    margin-right: 80%;
+    position: static;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-color: rgb(87, 87, 87);
+}
+
+.nav-link{
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font: 100;
+    color: rgb(62, 62, 62);
+}
+#navbar p{
+    width: 100%;    
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: rgb(87, 87, 87);
+}

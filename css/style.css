@@ -21,3 +21,12 @@
     border-top-width: 2px;
     border-top-color: rgb(87, 87, 87);
 }
+#main-doc{
+    padding-left: 20%;
+    padding-top: 30px;
+    margin-right: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font: 100;
+    color: rgb(62, 62, 62);
+}
